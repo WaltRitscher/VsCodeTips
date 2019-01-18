@@ -1,0 +1,1 @@
+import { Tour } from './Tour';
