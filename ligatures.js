@@ -6,7 +6,7 @@
 UseFontLigatures()
 {
  // Fira Code is based on Fira Mono
- // nice contrast on ambigous charactors
+ // It provides a nice contrast on ambigous charactors
 
  // I vs l vs | vs 1, O vs 0
  // braces []{}()
