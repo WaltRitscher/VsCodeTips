@@ -8,17 +8,17 @@ function CalculatePaintNeeded(paintPerUnit, radius) {
 
 
 
-  var area;
-  area = 3.141592 * radius * radius;
+  var ar;
+  ar = 3.141592 * radius * radius;
 
-  return area / paintPerUnit;
+  return ar / paintPerUnit;
 
 }
 
 function ReDrawChangedElements() {
   // similar code here
   var radius = 50;
-  var area;
-  area = PI * radius * radius;
+  var ar;
+  ar = PI * radius * radius;
 
 }
