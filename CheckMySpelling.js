@@ -3,10 +3,10 @@
 // including JavaScript, Typescript, HTML, JSON, C# 
 
 function LiveDemo() {
-
+  
   var message;
   message = "Welcome to Linkedn Academey"
-
+  
   var errorMessage;
   errorMessage = "Cannott complete the action!";
 

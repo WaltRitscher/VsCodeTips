@@ -13,19 +13,5 @@ function CalculatePaintNeeded(paintPerUnit, radius) {
   area = PI * radius * radius;
 
   return area / paintPerUnit;
-}
-function DoWork() {
-
-  var result = FormatErrorOutput("Live example", "An error occured: ", "See error log at ...")
-  var firstResult = Math2.min(10, 20);
-  var secondResult = Math2.min(-4,-5);
-
-}
-
-function FormatErrorOutput(valueToFormat, errorHeader, errorTagLine) {
-
-
-
-  return errorHeader + valueToFormat + errorTagLine;
-}
+ 
 

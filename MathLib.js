@@ -15,7 +15,6 @@ export function abs(candidateNumber) {
 
 }
 
-
 export function min(firstNumber, secondNumber) {
   // returns the smaller of a set of supplied numeric expressions.
 
@@ -29,11 +28,12 @@ export function min(firstNumber, secondNumber) {
   }
 
 }
+
 export function max(firstNumber, secondNumber) {
   //  Returns the larger of a set of supplied numeric expressions.
   if (firstNumber > secondNumber) {
     return firstNumber;
-
+    
   }
   else {
 
