@@ -1,5 +1,4 @@
-import * as Math2 from './MathLib';
-const PI = 3.141592;
+
 
 
 function CalculatePaintNeeded(paintPerUnit, radius) {
