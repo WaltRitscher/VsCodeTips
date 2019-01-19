@@ -16,7 +16,7 @@ function useFormatDocment() {
 function defaultJavaScriptRules()
 {
 
-  var attendeeCount = 4; 
+  var attendeeCount = 4   ; 
         var x = 6;
         
 }
