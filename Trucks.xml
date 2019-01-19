@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<fleet>
+  <truck>
+    <color>Red</color>
+    <year>1998</year>
+    <make>Ford</make>
+    <license>DSD6554</license>
+    <service>
+      <date>04/04/2007</date>
+      <mechanic>Jim Halvern</mechanic>
+      <workdone>Fixed Brakes</workdone>
+    </service>
+    <service>
+      <date>04/04/2007</date>
+      <mechanic>Mark Halvern</mechanic>
+      <workdone>Flat Tire</workdone>
+    </service>
+  </truck>
+  <truck>
+    <color>Orange</color>
+    <year>2003</year>
+    <make>Toyota</make>
+    <license>45T432</license>
+
+    <service>
+      <date>05/05/2007</date>
+      <mechanic>Jim Halvern</mechanic>
+      <workdone>3 month tuneup</workdone>
+    </service>
+  </truck>
+</fleet>
