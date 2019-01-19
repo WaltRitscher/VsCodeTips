@@ -10,6 +10,8 @@ function LiveDemo ()
     result= min(10,20);
     result = max (50,-20);
     result = cube(7);
+
+    result= Math.random();
   
 }
 
