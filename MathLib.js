@@ -1,5 +1,5 @@
 // example for course, in production use the JavaScript Math 
-export { PI, E }
+
 const PI = 3.1415;
 
 // The mathematical constant e. 
@@ -8,7 +8,7 @@ const E = 2.71828;
 
 
 
-export function abs(candidateNumber) {
+ function abs(candidateNumber) {
   //returns the absolute value of a number
 
   return (candidateNumber < 0 ? -candidateNumber : candidateNumber);
@@ -16,7 +16,7 @@ export function abs(candidateNumber) {
 }
 
 export function min(firstNumber, secondNumber) {
-  // returns the smaller of a set of supplied numeric expressions.
+  // returns the smaller of a set of supplied numeric expressions..
 
   if (firstNumber < secondNumber) {
     return firstNumber;
@@ -41,4 +41,7 @@ export function max(firstNumber, secondNumber) {
   }
 }
 
-e
+export function cube(candidateNumber) {
+  return candidateNumber * candidateNumber * candidateNumber;
+}
+export { PI, E, abs}
