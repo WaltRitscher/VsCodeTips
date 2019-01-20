@@ -7,7 +7,7 @@ function LiveDemo()
   var jello;
   var arrayOfOddNumbers;
   var markup = .3;
-  var longvarName = "Long text";
+  var longVariableName = "Long text";
 }
 
 function createCharArray(){}
