@@ -19,6 +19,6 @@ function ReDrawChangedElements() {
   // similar code here
   var radius = 50;
   var ar;
-  ar = PI * radius * radius;
+  ar = 3.141592 * radius * radius;
 
 }
