@@ -3,12 +3,12 @@ function LiveDemo()
 
   
   
+  var arrayOfOddNumbers;
   var bingo ;
   var jello;
-  var arrayOfOddNumbers;
-  var markup = .3;
   var longVariableName = "Long text";
+  var markup = .3;
 }
 
-function createCharArray(){}
 function addNumbers (){}
+function createCharArray(){}
