@@ -1,22 +1,20 @@
-function useFormatDocment() {
+function useFormatDocument() {
   // force formatting
-  var total = 0 ;
+  var total = 0;
   var attendeeCount = 4;
-            var results;
-  for (i=0;i<20;i++)
-  {
+  var results;
+  for (i = 0; i < 20; i++) {
 
 
-    total+=1;
+    total += 1;
   }
-  result        = attendeeCount *   total;
+  result = attendeeCount * total;
 
 }
 
-function defaultJavaScriptRules()
-{
+function defaultJavaScriptRules() {
 
-  var attendeeCount = 4   ; 
-        var x = 6;
-        
+  var attendeeCount = 4;
+  var x = 6;
+
 }
